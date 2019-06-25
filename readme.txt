@@ -5,6 +5,8 @@ Git tracks changes of fils.
 Creeating a new branch is quick & simple.
 Second day creating a new branch is quick and simple.
 No fast  forward.
+dev from origin dev.
+
 
 
 
